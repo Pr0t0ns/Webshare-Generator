@@ -1,0 +1,5 @@
+{
+    "proxyless": true,
+    "captcha_apikey": "",
+    "captcha_service": "capmonster"
+}
