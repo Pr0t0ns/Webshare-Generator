@@ -4,7 +4,7 @@ Webshare Generator made by pr0t0ns
 
 # STAR THE REPO #
 
-Note: I made this a while ago I just decided to Open Source it
+Note: I made this a while ago I just decided to Open Source it now
 
 **Features**
 
@@ -12,3 +12,5 @@ Note: I made this a while ago I just decided to Open Source it
 - Capmonster & Capsolver API Support
 - Threading
 - Fast AF
+- proxyless support
+- HTTP(s) proxy support
